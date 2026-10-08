@@ -1,0 +1,22 @@
+*{
+    background-color: lightcyan;
+}
+.Atigrado{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.Atigrado1{
+    border: 2px solid black;
+}
+
+.Atigrado2{
+    border: 2px solid black;
+    text-align: center;
+
+}
+
+ul > li{
+    list-style: none;
+}
